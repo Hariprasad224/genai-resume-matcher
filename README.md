@@ -1,4 +1,4 @@
-# GenAI Resume–JD Matcher (RAG App)
+# GenAI Resume–JD Matcher
 
 This application uses:
 - Gemini embeddings
