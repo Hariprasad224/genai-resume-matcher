@@ -19,3 +19,5 @@ FastAPI | Streamlit | Gemini | TF-IDF
 1. Add Gemini API key in `.env`
 2. Run backend
 3. Run frontend
+
+# This code is for educational and portfolio purposes. Please don’t reuse commercially without permission.
